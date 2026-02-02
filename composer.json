@@ -1,0 +1,22 @@
+{
+    "name": "daniel-km/jquery-autocomplete",
+    "type": "library",
+    "description": "Ajax Autocomplete for jQuery",
+    "license": "MIT",
+    "keywords": [
+        "jquery",
+        "autocomplete",
+        "ajax"
+    ],
+    "authors": [
+        {
+            "name": "Tomas Kirda",
+            "email": "tomas.kirda@devbridge.com"
+        }
+    ],
+    "extra": {
+        "assets": [
+            "dist/jquery.autocomplete.min.js"
+        ]
+    }
+}
